@@ -1,0 +1,15 @@
+﻿  Admin.cpp
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Admin.cpp(30,15): error C2511: 'std::string Admin::search_course(std::string)': overloaded member function not found in 'Admin'
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Admin.h(8): message : see declaration of 'Admin'
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Admin.cpp(33,35): error C2761: 'void Admin::add_course_in_system(void)': redeclaration of member is not allowed
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Admin.cpp(33,37): error C2447: '{': missing function header (old-style formal list?)
+  Instructor.cpp
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Instructor.cpp(30,20): error C2511: 'std::string Instructor::search_course(std::string)': overloaded member function not found in 'Instructor'
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Instructor.h(7): message : see declaration of 'Instructor'
+  main.cpp
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\main.cpp(1,10): fatal  error C1083: Cannot open include file: '../inc/Student.h': No such file or directory
+  Student.cpp
+  User.cpp
+  Generating Code...
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\User.cpp(22): error C4716: 'User::show_name': must return a value
+C:\Users\arpin\OneDrive\Desktop\school\applied prog\Leopard_Project_sol\Leopard_Project_sol\Student.cpp(41): error C4716: 'Student::display_schedule': must return a value
